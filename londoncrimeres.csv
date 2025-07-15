@@ -1,0 +1,33 @@
+clean_lsoa_name,crime_count,percentage_of_all_crime
+Westminster,31981,8.95
+Camden,15860,4.44
+Newham,15583,4.36
+Southwark,15130,4.23
+Lambeth,14454,4.04
+"Tower Hamlets",14052,3.93
+Ealing,13775,3.85
+Croydon,13619,3.81
+Islington,13229,3.70
+Brent,13188,3.69
+Hillingdon,12397,3.47
+Hackney,11904,3.33
+Enfield,11805,3.30
+Barnet,11369,3.18
+Lewisham,11225,3.14
+Haringey,11220,3.14
+Greenwich,10866,3.04
+Wandsworth,10303,2.88
+Hounslow,10021,2.80
+"Waltham Forest",9610,2.69
+Bromley,9501,2.66
+Redbridge,9433,2.64
+"Hammersmith and Fulham",8408,2.35
+"Kensington and Chelsea",8364,2.34
+"Barking and Dagenham",7603,2.13
+Havering,7494,2.10
+Harrow,6634,1.86
+Bexley,6289,1.76
+Merton,5549,1.55
+Sutton,5038,1.41
+"Kingston upon Thames",4733,1.32
+"Richmond upon Thames",4589,1.28
