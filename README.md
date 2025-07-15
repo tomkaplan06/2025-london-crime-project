@@ -1,9 +1,39 @@
-This repo consists of my SQL source code and each insight I have gathered so far in this project.
+2025 Greater London Crime Insight Project
 
-The file greaterlondoncrimescript.sql is my code that I have used for each of my results
+Overview
 
-The file crimerates.csv showcases the crime rate per 1k people across all 32 boroughs of London (excl. the City of London) sorted in descending order
+This project explores publicly available crime data from Greater London, analyzing over 350,000 records using SQL and Excel to identify spatial and temporal crime patterns across the city's 32 boroughs. The goal is to surface actionable insights and build practical data analysis skills.
 
-The file roundedcoord.csv shows the amount of crimes that have taken place in each pair of latitude and longitudinal co-ordinates rounded to 2dp, sorted in descending order
+📂 Data
+Source: London Metropolitan Police Crime Data
 
-The file londoncrimeres.csv shows the amount of crimes that have taken place in each London borough between Jan-Apr 2025, in descending order
+Size: 350,000+ rows (CSV format)
+
+Timeframe: 4-month period (latest data available for 2025)
+
+🧰 Tools Used
+
+SQL (MySQL Workbench) – Data cleaning, aggregation, querying
+
+Microsoft Excel – Pivot tables, data visualisation, trend analysis
+
+📊 Key Objectives
+
+Identify boroughs with highest crime volume
+
+Analyze seasonal and monthly trends
+
+Segment data by crime type and outcome
+
+Calculate crime rates per borough relative to population
+
+✅ Highlights
+
+Built complex SQL queries to group, filter, and calculate rates across boroughs and months
+
+Produced a set of pivot-based visualisations to show high-level trends
+
+Identified boroughs with consistently high rates of violent crime and theft
+
+Delivered a clean summary report for non-technical audiences
+
